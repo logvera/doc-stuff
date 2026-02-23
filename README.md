@@ -1,2 +1,2 @@
-# docs.github.io
+# Shared docs
 Simple shareable docs
